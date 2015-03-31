@@ -1,0 +1,2 @@
+# dz-elktr
+Dziennik elektroniczny
